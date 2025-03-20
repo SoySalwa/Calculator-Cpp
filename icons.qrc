@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/drawable-hdpi/48x48.png</file>
+        <file>res/drawable-mdpi/64x64.png</file>
+        <file>res/drawable-xhdpi/128x128.png</file>
+    </qresource>
+</RCC>
